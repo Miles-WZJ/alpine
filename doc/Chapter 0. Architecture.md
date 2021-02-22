@@ -16,6 +16,3 @@ GW
 - 1 張網卡
     - RJ45
 
----
-
-[返回至 - 目錄](https://github.com/xuan103/Alpine_2021)
